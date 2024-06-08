@@ -7,7 +7,7 @@ import {GrMail} from "react-icons/gr";
 const Footer = () => {
   return (
     <footer>
-      <h4>Developed by Ivan</h4>
+      <h4>Developed by Ivan Fedorov</h4>
       <h4>Copyright &copy; 2023</h4>
       {/* <div className='footerLinks'> */}
         {/* <a href="https://github.com/chicken931205" target='_blank'><FaGithub/></a> */}
