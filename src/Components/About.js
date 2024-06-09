@@ -11,7 +11,7 @@ const About = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
           <p>
-            Hi, my name is <b>Ivan</b> and I am from Beryslav, Ukraine. <br/>
+            Hi, my name is <b>Ivan Fedorov</b> and I am from Khmelnytskyi, Ukraine. <br/>
             I'm a <b>Full Stack Web Developer</b> with over 6 years of experience. <br/><br/>
             You can check out some of my works in the projects section.<br/><br/>
             I am <b>open</b> to new collaborations or work where I can contribute and grow.<br/>
